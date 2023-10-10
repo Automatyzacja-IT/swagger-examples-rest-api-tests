@@ -1,0 +1,1 @@
+Projekt znajdujący się w tym repozytorium jest częścią artykułu ["Automatycznie generowane testy REST API w Postman na bazie dokumentacji Swagger"](https://automatyzacja.it/2023/10/10/automatycznie-generowane-testy-rest-api-w-postman-na-bazie-dokumentacji-swagger/) znajdującego się na testerskim blogu [Automatyzacja.IT](https://automatyzacja.it).
